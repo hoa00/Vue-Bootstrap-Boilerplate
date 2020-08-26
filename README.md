@@ -1,6 +1,6 @@
 # Vue Bootstrap Boilerplate
 
-## Futures
+## Features
 
 - Vue.js 2
 - Bootstrap 4
@@ -11,6 +11,13 @@
 - ESLint
 - Babel/polyfill
 - Unit & E2E test
+
+## Clone project
+
+```
+git clone https://github.com/thehoa/Vue-Bootstrap-Boilerplate.git
+cd Vue-Bootstrap-Boilerplate
+```
 
 ## Project setup
 
